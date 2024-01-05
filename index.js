@@ -5,3 +5,5 @@ let b = 20;
 let c = a + b;
 
 let d = 30;
+
+let f = 20;
